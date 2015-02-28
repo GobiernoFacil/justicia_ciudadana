@@ -11,14 +11,12 @@
         <!-- Place favicon.ico in the root directory -->
 
         <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/styles.css">
     </head>
     <body>
 
-
+	<script data-main="/js/main" src="/js/bower_components/requirejs/require.js"></script>		
 
        
     </body>
-
-
 </html>
