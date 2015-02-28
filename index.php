@@ -45,6 +45,41 @@
 						<img src="/img/slide/3.jpg">
 					</figure>
 				</div>
+				<div  class="slide">
+					<figure>
+						<img src="/img/slide/4.jpg">
+					</figure>
+				</div>
+				<div  class="slide">
+					<figure>
+						<img src="/img/slide/5.jpg">
+					</figure>
+				</div>
+				<div  class="slide">
+					<figure>
+						<img src="/img/slide/6.jpg">
+					</figure>
+				</div>
+				<div  class="slide">
+					<figure>
+						<img src="/img/slide/7.jpg">
+					</figure>
+				</div>
+				<div  class="slide">
+					<figure>
+						<img src="/img/slide/8.jpg">
+					</figure>
+				</div>
+				<div  class="slide">
+					<figure>
+						<img src="/img/slide/9.jpg">
+					</figure>
+				</div>
+				<div  class="slide">
+					<figure>
+						<img src="/img/slide/10.jpg">
+					</figure>
+				</div>
 			</div>
 			<div class="col-sm-8 col-sm-offset-2 nav">
 			<button id="pause">Pausa</button>

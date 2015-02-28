@@ -50,7 +50,7 @@ define(function(require){
 	enable_animation : function () {
 		
 		var pauseBtn = this.$("#pause"),
-		tl = new TimelineMax({repeat:-1});
+		tl = new TimelineMax(/*{repeat:-1}*/);
 
 		tl.staggerTo(".slide", 1, {x:780, force3D:true}, 5)
 		
