@@ -816,7 +816,16 @@ h3 {
     left: -780px;
     top: 0; }
     .rolling .slide figure {
-      width: 780px; }
+      width: 780px;
+      position: absolute; }
+    .rolling .slide h2 {
+      color: white;
+      z-index: 999;
+      position: absolute;
+      left: 10px;
+      top: 20px;
+      background: #ee407c;
+      padding: 10px; }
 
 .nav {
   margin-top: 10px; }
