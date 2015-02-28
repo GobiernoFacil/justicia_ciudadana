@@ -1,22 +1,41 @@
 <!doctype html>
 <html class="no-js" lang="es">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <!-- Place favicon.ico in the root directory -->
-
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/styles.css">
-    </head>
-    <body>
-
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Construcciones irregulares en la delegación Benito Juárez | Justicia Vecinal</title>
+    <meta name="description" content="Construcciones irregulares en la delegación Benito Juárez">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" href="/img/icono_g.png">
+	<link href='http://fonts.googleapis.com/css?family=Alfa+Slab+One' rel='stylesheet' type='text/css'>    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+	<div class="container">
+		<header class="the_header row">
+			<div class="col-sm-12">			
+				<div class="row">
+					<div class="col-sm-4">
+					<h2>Justicia Vecinal</h2>
+					</div>
+					<ul class="col-sm-8 nav">
+						<li><a href="#">Guías</a></li>
+						<li><a href="#">Acerca</a></li>
+					</ul>
+				</div>
+				<h1>Construcciones irregulares en la delegación Benito Juárez</h1>
+			</div>
+		</header>
+	</div>
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-8 col-sm-offset-2">
+					<a href="http://gobiernofacil.com" class="gobiernofacil">Gobierno Fácil</a>
+				</div>
+			</div>
+		</div>
+	</footer>
 	<script data-main="/js/main" src="/js/bower_components/requirejs/require.js"></script>		
-
-       
-    </body>
+</body>
 </html>
