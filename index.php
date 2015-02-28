@@ -26,6 +26,29 @@
 				<h1>Construcciones irregulares en la delegación Benito Juárez</h1>
 			</div>
 		</header>
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2 rolling">
+				<div  class="slide">
+					<figure>
+						<img src="/img/slide/1.jpg">
+					</figure>
+				</div>
+				<div  class="slide">
+					<figure>
+						<img src="/img/slide/2.jpg">
+					</figure>
+				</div>
+				<div  class="slide">
+					<figure>
+						<img src="/img/slide/3.jpg">
+					</figure>
+				</div>
+			</div>
+			<div class="col-sm-8 col-sm-offset-2 nav">
+			<button id="pause">Pausa</button>
+			</div>
+		</div>
+	
 	</div>
 	<footer>
 		<div class="container">

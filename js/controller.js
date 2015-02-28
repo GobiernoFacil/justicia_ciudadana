@@ -38,7 +38,34 @@ define(function(require){
     // ------------------------
     //
     initialize : function(){
+      	// run the animation
+		this.enable_animation();
+	},
+	
 
+	// 
+    // A N I M A T I O N S
+    // ------------------------------------------------------------------------------
+    //
+	enable_animation : function () {
+		
+		var pauseBtn = this.$("#pause"),
+		tl = new TimelineMax({repeat:-1});
+
+		tl.staggerTo(".slide", 1, {x:780, force3D:true}, 5)
+		
+		tl.pause() // pauses the animation
+		tl.paused() // gets paused state, returns true or false
+		tl.paused(true) // sets paused state to true
+		tl.paused(!tl.paused()) // sets paused state to inverse of current paused state.
+
+		tl.repeatDelay(5);
+		
+		pauseBtn.on("click", function() {
+			tl.paused(!tl.paused());
+			var btn_txt		= tl.paused() ? "Continuar" : "Pausa";
+			pauseBtn.html('').append(btn_txt);
+		})
 	}
 	           
   });

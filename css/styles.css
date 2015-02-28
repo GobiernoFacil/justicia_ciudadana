@@ -751,7 +751,7 @@ input:focus, select:focus, textarea:focus {
 /* =Main content and comment content
 -------------------------------------------------------------- */
 .the_header {
-  padding: 40px 0 90px; }
+  padding: 40px 0; }
   .the_header h2 {
     color: #3E454C;
     font-size: 15px;
@@ -781,6 +781,33 @@ h1 {
   padding: 25px 0;
   font-family: "Alfa Slab One", sans-serif;
   text-align: center; }
+
+.rolling {
+  padding: 0;
+  border-radius: 12px;
+  overflow: hidden;
+  border: solid 1px #ccc;
+  height: 500px;
+  position: relative; }
+  .rolling .slide {
+    position: absolute;
+    border-radius: 50%;
+    display: inline-block;
+    left: -780px;
+    top: 0; }
+    .rolling .slide figure {
+      width: 780px; }
+
+.nav {
+  margin-top: 10px; }
+  .nav button {
+    background: #ee407c;
+    border: 0;
+    padding: 5px 15px;
+    color: #fff;
+    text-align: center; }
+    .nav button:hover {
+      background: #23272d; }
 
 footer {
   background: #23272d;
