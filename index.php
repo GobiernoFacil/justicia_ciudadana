@@ -7,19 +7,20 @@
     <meta name="description" content="Construcciones irregulares en la delegación Benito Juárez">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="shortcut icon" href="/img/icono_g.png">
-	<link href='http://fonts.googleapis.com/css?family=Alfa+Slab+One' rel='stylesheet' type='text/css'>    <link rel="stylesheet" href="css/normalize.css">
+	<link href='http://fonts.googleapis.com/css?family=Alfa+Slab+One' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 	<div class="container">
 		<header class="the_header row">
-			<div class="col-sm-12">			
+			<div class="col-sm-12">
 				<div class="row">
 					<div class="col-sm-4">
 					<h2>Justicia Vecinal</h2>
 					</div>
 					<ul class="col-sm-8 nav">
-						<li><a href="#">Guías</a></li>
+						<li><a href="/guias.php">Guías</a></li>
 						<li><a href="#">Acerca</a></li>
 					</ul>
 				</div>
@@ -36,6 +37,6 @@
 			</div>
 		</div>
 	</footer>
-	<script data-main="/js/main" src="/js/bower_components/requirejs/require.js"></script>		
+	<script data-main="/js/main" src="/js/bower_components/requirejs/require.js"></script>
 </body>
 </html>
