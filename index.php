@@ -22,7 +22,7 @@
 					<ul class="col-sm-8 nav">
 						<li><a href="/" class="current">Inicio</a></li>
 						<li><a href="/guias.php" >Guías</a></li>
-					<!--	<li><a href="#">Acerca</a></li>-->
+						<li><a href="/about.php">About</a></li>
 					</ul>
 				</div>
 				<h1>Construcciones irregulares en la delegación Benito Juárez</h1>

@@ -23,7 +23,7 @@
 					<ul class="col-sm-8 nav">
 						<li><a href="/">Inicio</a></li>
 						<li><a href="/guias.php" class="current">Guías</a></li>
-					<!--	<li><a href="#">Acerca</a></li>-->
+						<li><a href="/about.php">About</a></li>
 					</ul>
 				</div>
 				<h1>Guía práctica del comprador</h1>

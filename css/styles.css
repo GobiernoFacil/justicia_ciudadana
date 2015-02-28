@@ -807,7 +807,8 @@ h3 {
   overflow: hidden;
   border: solid 1px #ccc;
   height: 500px;
-  position: relative; }
+  position: relative;
+  background: rgba(0, 0, 0, 0.02); }
   .rolling .slide {
     position: absolute;
     border-radius: 50%;
