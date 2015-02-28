@@ -20,8 +20,9 @@
 					<h2>Justicia Vecinal</h2>
 					</div>
 					<ul class="col-sm-8 nav">
-						<li><a href="/guias.php">Guías</a></li>
-						<li><a href="#">Acerca</a></li>
+						<li><a href="/" class="current">Inicio</a></li>
+						<li><a href="/guias.php" >Guías</a></li>
+					<!--	<li><a href="#">Acerca</a></li>-->
 					</ul>
 				</div>
 				<h1>Construcciones irregulares en la delegación Benito Juárez</h1>

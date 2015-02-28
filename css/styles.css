@@ -774,6 +774,8 @@ input:focus, select:focus, textarea:focus {
       padding: 3px 6px;
       letter-spacing: 3px;
       text-transform: uppercase; }
+      .the_header ul.nav a.current {
+        background: #ee407c; }
 
 h1 {
   border-top: 3px solid #ee407c;
