@@ -31,7 +31,7 @@
 
 			<div class="col-sm-12">
 				<div class="row">
-					<div class="col-sm-12 main-text">
+					<div class="col-sm-8 col-sm-offset-2 main-text">
 						<h3>Si la obra está en construcción:</h3>
 
 						<p>Visita la página de PROFECO o llamar al 5568 8722 Para informes sobre la posible existencia de quejas de la constructora y la inmobiliaria.</p>
@@ -76,7 +76,7 @@
 
 						<p>Departamentos construidos bajo esta norma se han vendido mucho más caros...</p>
 
-						<p class="center">Entre 5 y 8.5 millones de pesos.</p>
+						<p class="center"><strong class="big-text">Entre 5 y 8.5 millones de pesos</strong>.</p>
 
 						<p>La Procuraduría Ambiental y del Ordenamiento Territorial (PAOT) informa que los desarrolladores inmobiliarios tienen ganancias excedentes de al menos 2 mil 535 millones de pesos en los últimos tres años.</p>
 

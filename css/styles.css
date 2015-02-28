@@ -63,7 +63,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   vertical-align: baseline; }
 
 h1, h2, h3, h4, h5, .cta, blockquote.feature, #access, #insidenav, #pagination, .bloglist .more, blockquote {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 500; }
 
 /* = HEADINGS */
@@ -117,7 +117,7 @@ h6 {
 /* = TEXT */
 p, ul, ol, dl, table, form {
   /* 13px */
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 16px;
   margin: 0 0 1.5em 0; }
 
@@ -125,7 +125,7 @@ p, ul, ol, dl, table, form {
 a, a:link {
   color: #302d2e;
   background-color: transparent;
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Raleway", sans-serif;
   text-decoration: none; }
 
 .alt a, .alt a:link {
@@ -750,6 +750,9 @@ input:focus, select:focus, textarea:focus {
 
 /* =Main content and comment content
 -------------------------------------------------------------- */
+p, li {
+  font-family: "Raleway", sans-serif; }
+
 .the_header {
   padding: 40px 0; }
   .the_header h2 {
@@ -783,6 +786,20 @@ h1 {
   padding: 25px 0;
   font-family: "Alfa Slab One", sans-serif;
   text-align: center; }
+
+h3 {
+  text-align: center;
+  border-bottom: 1px solid #ee407c;
+  padding-bottom: 10px;
+  margin-top: 50px; }
+
+.main-text {
+  padding: 0 0 40px; }
+
+.big-text {
+  color: #ee407c;
+  font-family: "Alfa Slab One", sans-serif;
+  font-weight: 500; }
 
 .rolling {
   padding: 0;
