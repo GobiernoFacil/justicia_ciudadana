@@ -17,3 +17,15 @@ ol {
 	margin-left: 2em;
 	list-style-position: inside;
 }
+
+strong {
+	font-weight: bold;
+}
+
+.big-text {
+	font-size: 1.4em;
+}
+
+.center {
+	font-size: 1.4em;
+}

@@ -1,16 +1,16 @@
 <!doctype html>
 <html class="no-js" lang="es">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Guías | Justicia Vecinal</title>
-    <meta name="description" content="Construcciones irregulares en la delegación Benito Juárez">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Guías | Justicia Vecinal</title>
+	<meta name="description" content="Construcciones irregulares en la delegación Benito Juárez">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="shortcut icon" href="/img/icono_g.png">
 	<link href='http://fonts.googleapis.com/css?family=Alfa+Slab+One' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/guias.css">
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/guias.css">
 </head>
 <body>
 	<div class="container">
@@ -33,7 +33,7 @@
 					<div class="col-sm-12 main-text">
 						<h3>Si la obra está en construcción:</h3>
 
-						<p>Visita la página de PROFECO o llamar al 5568 8722  Para informes sobre la posible existencia de quejas de la constructora y la inmobiliaria.</p>
+						<p>Visita la página de PROFECO o llamar al 5568 8722 Para informes sobre la posible existencia de quejas de la constructora y la inmobiliaria.</p>
 
 						<p>Hacer una solicitud de información por INFODF. Pedir:</p>
 						<ol>
@@ -60,6 +60,28 @@
 
 						<p>Investiga si la vivienda se encuentra ubicada en una zona de reserva. (falta averiguar si hay un documento sobre esto)</p>
 						<p>Sé un buen vecino.</p>
+
+						<p>Asegúrate de que pagas el precio justo por tu departamento.</p>
+
+						<h3>¡Ojo!</h3>
+
+						<p>La <strong>Norma General de Ordenación</strong>, o <strong>Norma 26</strong>, “incentiva” la vivienda de interés social y popular en el DF.</p>
+
+						<p>La norma permite construir en un predio más viviendas y pisos de lo establecido con el fin de promover la producción de bajo costo.</p>
+
+						<p>El precio de venta máximo es de <strong class="big-text">709 mil pesos</strong>.</p>
+
+						<p class="center">...Pero</p>
+
+						<p>Departamentos construidos bajo esta norma se han vendido mucho más caros...</p>
+
+						<p class="center">Entre 5 y 8.5 millones de pesos.</p>
+
+						<p>La Procuraduría Ambiental y del Ordenamiento Territorial (PAOT) informa que los desarrolladores inmobiliarios tienen ganancias excedentes de al menos 2 mil 535 millones de pesos en los últimos tres años.</p>
+
+						<p>Un listado de 100 expedientes de la PAOT registra que bajo la aplicación ilegal de la norma se produjeron 3 mil 165 viviendas de más.</p>
+
+						<p>Las delegaciones Benito Juárez e Iztacalco registran el mayor número de denuncias de construcciones irregulares bajo el amparo de la Norma 26.</p>
 
 				</div>
 			</div>
