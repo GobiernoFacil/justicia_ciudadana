@@ -1,0 +1,32 @@
+{
+  "name": "justicia",
+  "version": "1.0.0",
+  "homepage": "http://justicia-ciudadana.gobiernofacil.com/",
+  "authors": [
+    "Hugo Osorio <hugo@gobiernofacil.com>"  
+  ],
+  "description": "justicia ciudadana",
+  "main": "main_justicia.js",
+  "keywords": [
+    "justicia",
+    "justicia ciudadana",
+    "CIDE"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "underscore": "latest",
+    "backbone": "~1.1.2",
+    "requirejs": "~2.1.15",
+    "jquery.countdown": "~2.0.4",
+    "gsap": "~1.15.0"
+  }
+}
