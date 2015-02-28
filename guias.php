@@ -28,9 +28,8 @@
 				</div>
 				<h1>Guía práctica del comprador</h1>
 			</div>
-
-			<div class="col-sm-12">
-				<div class="row">
+		</header>
+			<div class="row">
 					<div class="col-sm-8 col-sm-offset-2 main-text">
 						<h3>Si la obra está en construcción:</h3>
 
@@ -86,7 +85,6 @@
 
 				</div>
 			</div>
-		</header>
 	</div>
 	<footer>
 		<div class="container">

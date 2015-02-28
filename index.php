@@ -10,6 +10,7 @@
 	<link href='http://fonts.googleapis.com/css?family=Alfa+Slab+One' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Raleway:400,700,300' rel='stylesheet' type='text/css'>	<link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/guias.css">
 </head>
 <body>
 	<div class="container">
@@ -86,7 +87,41 @@
 			<button id="pause">Pausa</button>
 			</div>
 		</div>
-	
+		
+		<div class="row">
+					<div class="col-sm-8 col-sm-offset-2 main-text">
+						<h3>Conclusiones:</h3>
+						<p>En la colonia hay al menos siete obras de carácter irregular además de mi casa.</p>
+
+<p>La construcción vecina al menos ha sido clausurada en cinco ocasiones. Siempre han conseguido ampararse por otras leyes e incluso han continiado con la obra bajo los sellos de clausura.</p>
+
+<p>Contamos con una resolución de demolición con fecha del 16 de agosto de 2011 expedida por la Delegación Benito Juárez y al 2015 los nuevos vecinos van llegando poco a poco.</p>
+
+<p>Hemos acudido solicitado un proceso de justicia con:</p>
+<ul>
+<li>La delegación Benito Juárez												 </li>
+<li>Gobierno del Distrito Federal											 </li>
+<li>Asamblea del DF															 </li>
+<li>Protección Civil														 </li>
+<li>Instituto de Seguridad de las Construcciones del DF						 </li>
+<li>Procuraduría General de Justicia										 </li>
+<li>PAOT, Procuraduría ambiental y del ordenamiento territorial				 </li>
+<li>SEDUVI, Secretaría de Desarrollo Urbano y Vivienda						 </li>
+<li>INVEA, Instituto Nacional de Verificación Administrativa				 </li>
+<li>Fedapur, Fiscalía de Delitos Ambientales y Materia de Protección Urbana. </li>
+</ul>
+<p>
+Nada ha sido suficiente.
+</p>
+		<h3>Irregularidades:</h3>
+<p>Se piden que sean al menos 60 metros de construcción por departamento, y lo hicieron en 56.</p>
+<p>El uso de suelo dice que podrían construir tres niveles, construyeron siete.</p>
+<p>Tenía permiso para construir 14 departamentos y construyeron 48.</p>
+<p>Construyeron dos torres de siete pisos cada una, con 24 departamentos por torre.</p>
+<p>Debería costar el equivalente a 30 veces el salario mínimo anualizado = 726,732 pesos y el costo de venta es de 1 millón 500 mil pesos.</p>
+
+				</div>
+			</div>
 	</div>
 	<footer>
 		<div class="container">
