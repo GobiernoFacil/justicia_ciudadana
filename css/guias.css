@@ -1,0 +1,31 @@
+.main-text {
+	font-size: 16px;
+	line-height: 1.2em;
+}
+
+h3, h4 {
+	font-family: 'Alfa Slab One', sans-serif;
+	text-transform: uppercase;
+	color: #444;
+}
+
+p {
+	margin: 1em 0;
+}
+
+ol {
+	margin-left: 2em;
+	list-style-position: inside;
+}
+
+strong {
+	font-weight: bold;
+}
+
+.big-text {
+	font-size: 1.4em;
+}
+
+.center {
+	font-size: 1.4em;
+}
